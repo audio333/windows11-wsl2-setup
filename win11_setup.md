@@ -25,6 +25,7 @@
 * Microsoft.VisualStudioCode
 * Docker.DockerDesktop
 * Lexikos.AutoHotkey
+* rickbutton.workspacer
 * Figma.Figma
 
 ### Installer
@@ -32,7 +33,7 @@
 * Microsoft Office
 
 ## Ubuntu
- 
+
 ### Apt
 * CLI
     * `$ sudo apt install zsh stow rsync git tmux ranger vim neofetch htop tree trash-cli fasd`
