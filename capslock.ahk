@@ -11,6 +11,9 @@ h::Left
 j::Down
 k::Up
 l::Right
+; Switch Desktop
+s::#^Left
+g::#^Right
 #If
 
 *CapsLock::
