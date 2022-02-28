@@ -23,10 +23,11 @@
 * Microsoft.PowerShell
 * Microsoft.PowerToys
 * Microsoft.VisualStudioCode
-* Docker.DockerDesktop
 * Lexikos.AutoHotkey
 * rickbutton.workspacer
+* Docker.DockerDesktop
 * Figma.Figma
+* Git.Git
 
 ### Installer
 * Adobe PS/AI/XD
@@ -42,9 +43,13 @@
     * `$ sudo apt install nautilus gedit`
 
 ### Github
-* ohmyzsh
+* [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh#basic-installation)
     * `$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
-* fzf
+* [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+    * `$ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
+* [vundle](https://github.com/VundleVim/Vundle.vim#quick-start)
+    * `$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
+* [fzf](https://github.com/junegunn/fzf#using-git)
     * `$ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf`
     * `$ ~/.fzf/install`
 * [dotfiles](https://github.com/audio333/dotfiles)
