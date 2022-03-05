@@ -65,6 +65,9 @@
     * `$ nvim`
 * [LunarVim](https://www.lunarvim.org/01-installing.html#rolling)
     * `$ LV_BRANCH=rolling bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/rolling/utils/installer/install.sh)`
+    > Additional Plugins
+    * LunarVim/darkplus.nvim
+    * mattn/emmet-vim
 * [AstroVim](https://github.com/kabinspace/AstroVim#clone-the-repository)
     * `$ git clone https://github.com/kabinspace/AstroVim ~/.config/nvim`
     * `$ nvim +PackerSync`
