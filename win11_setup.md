@@ -33,6 +33,11 @@
 * Microsoft Office
 * [CaskaydiaCove NF](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip)
 
+### Tweaks
+* [change default location of desktop](https://superuser.com/questions/328763/can-you-change-the-location-of-the-desktop-folder-in-windows)
+* [disable quick access](https://vtcri.kayako.com/article/191-disable-quick-access-in-windows-10)
+
+
 ## Ubuntu
 
 ### Apt
