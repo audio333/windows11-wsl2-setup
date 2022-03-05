@@ -31,6 +31,7 @@
 ### Installer
 * Adobe PS/AI/XD
 * Microsoft Office
+* [CaskaydiaCove NF](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip)
 
 ## Ubuntu
 
@@ -49,20 +50,22 @@
 * [nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
     * `$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
     * `$ source ~/.zshrc`
-    * `nvm install --lts`
-    * `nvm ls`
+    * `$ nvm install --lts`
+    * `$ nvm ls`
 * [fzf](https://github.com/junegunn/fzf#using-git)
     * `$ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf`
     * `$ ~/.fzf/install`
 * [vundle](https://github.com/VundleVim/Vundle.vim#quick-start)
     * `$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 * [nvim](https://github.com/neovim/neovim/wiki/Installing-Neovim#appimage-universal-linux-package)
-    * `curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage`
-    * `chmod u+x nvim.appimage`
-    * `./nvim.appimage`
-    * `sudo mv nvim.appimage /usr/local/bin/nvim`
-    * `nvim`
+    * `$ curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim.appimage`
+    * `$ chmod u+x nvim.appimage`
+    * `$ ./nvim.appimage`
+    * `$ sudo mv nvim.appimage /usr/local/bin/nvim`
+    * `$ nvim`
+* [LunarVim](https://www.lunarvim.org/01-installing.html#rolling)
+    * `$ LV_BRANCH=rolling bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/rolling/utils/installer/install.sh)`
 * [AstroVim](https://github.com/kabinspace/AstroVim#clone-the-repository)
-    * `git clone https://github.com/kabinspace/AstroVim ~/.config/nvim`
-    * `nvim +PackerSync`
+    * `$ git clone https://github.com/kabinspace/AstroVim ~/.config/nvim`
+    * `$ nvim +PackerSync`
 * [dotfiles](https://github.com/audio333/dotfiles)
